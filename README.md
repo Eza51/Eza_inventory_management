@@ -1,26 +1,3 @@
 # Eza_inventory_management
 
-Assalamuwalaikum Bhaia,
 
-I hope this message finds you well.I am submitting my Inventory Management System as part of 
-my assignment. This project involved creating a simple yet functional CRUD (Create, Read, Update, Delete) 
-system for managing products in an inventory, built using PHP, MySQL, and HTML/CSS.
-
-How to Use the System:
-Add a New Product:
-
-Go to the following link to add a new product:
-http://localhost/Eza_inventory_management/index.html.
-Fill in the product name, description, price, and quantity.
-Click the "Add Product" button to save the new product.
-View Products:
-
-To view the list of products, visit:
-http://localhost/Eza_inventory_management/display.php.
-You will see all the products displayed in a table with options to edit or delete each product.
-
-Thank you bhaia,for your time and consideration. 
-I look forward to your feedback and hope you find the system functional and well-structured.
-
-Sincerely,
-Nowshin Jerin Eza.
